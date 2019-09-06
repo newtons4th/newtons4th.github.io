@@ -1,0 +1,112 @@
+
+/* Set the head of the main page style*/
+#PageHead {
+	
+	background-color:Lightgray;
+	text-align: center;
+	padding-bottom: 0px;
+	
+}
+h1 {
+	
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 50px;
+	
+}
+
+/*Style button links*/
+#ButtonLinks {
+	
+	background-color:white;
+	padding-bottom: 50x;
+	text-align: left;
+	margin: auto;
+	
+}
+#TheMan {
+	
+	background-color: red;
+	color: white;
+	font-size: 25px;
+	border: 2px solid white;
+	padding-top: 20px;
+	padding-right: 250px;
+	padding-bottom: 30px;
+		
+}
+#TheMachine {
+	
+	background-color: red;
+	color: white;
+	font-size: 25px;
+	border: 2px solid white;
+	padding-top: 20px;
+	padding-right: 250px;
+	padding-bottom: 30px;
+
+}
+#TheApprentice {
+	
+	background-color: red;
+	color: white;
+	font-size: 25px;
+	border: 2px solid white;
+	padding-top: 20px;
+	padding-right: 250px;
+	padding-bottom: 30px;
+
+}
+
+/* Style images*/
+/* Align Headshot on main page*/
+#Headshot {
+	float: left;
+	border:2px solid red;
+	height: 350px;
+	width: 300px;
+	margin: 20px;
+	}
+/*Align IBAD photos*/
+figure{
+	
+	float: left;
+	font-style: italic;
+	font-size: smaller;
+	clear: both;
+
+}
+	
+/*Style the text for the main body, drop 50 px from buttons*/
+#BodyMain {
+	
+	font-family: calibri;
+	font-size:  25px;
+	padding-top: 50px;
+	padding-bottom: 10px
+	
+}
+
+/*Set the background of the main text*/
+#BodyMain {
+	
+	background-image: url("UNMCShield2.png");
+	background-position: center;
+	background-repeat: no-repeat;  
+	background-size: 300px 300px;
+	
+}
+
+/*Footer for IBAD page*/
+.footer {
+	
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	
+}
+
+
+
